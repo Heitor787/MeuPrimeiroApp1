@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade 1", "Atividade 1.csproj", "{28ED6DD0-003A-4D29-AA55-195532FA5899}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade 1", "Atividade 1.csproj", "{28ED6DD0-003A-4D29-AA55-195532FA5899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exército", "..\Exército\Exército.csproj", "{D67DDBEA-13A7-4579-9D9A-1AAA29758B9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{28ED6DD0-003A-4D29-AA55-195532FA5899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28ED6DD0-003A-4D29-AA55-195532FA5899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28ED6DD0-003A-4D29-AA55-195532FA5899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67DDBEA-13A7-4579-9D9A-1AAA29758B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67DDBEA-13A7-4579-9D9A-1AAA29758B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67DDBEA-13A7-4579-9D9A-1AAA29758B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67DDBEA-13A7-4579-9D9A-1AAA29758B9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

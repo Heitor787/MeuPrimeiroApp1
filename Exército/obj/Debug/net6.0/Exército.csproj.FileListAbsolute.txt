@@ -1,0 +1,14 @@
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\Exército.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\Exército.AssemblyInfoInputs.cache
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\Exército.AssemblyInfo.cs
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\Exército.csproj.CoreCompileInputs.cache
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\bin\Debug\net6.0\Exército.exe
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\bin\Debug\net6.0\Exército.deps.json
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\bin\Debug\net6.0\Exército.runtimeconfig.json
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\bin\Debug\net6.0\Exército.dll
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\bin\Debug\net6.0\Exército.pdb
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\Exército.dll
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\refint\Exército.dll
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\Exército.pdb
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\Exército.genruntimeconfig.cache
+C:\Users\heitor55093656\source\repos\Heitor787\MeuPrimeiroApp1\Exército\obj\Debug\net6.0\ref\Exército.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heitor55093656\\source\\repos\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj": {}
+    "C:\\Users\\heitor55093656\\source\\repos\\Heitor787\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heitor55093656\\source\\repos\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj": {
+    "C:\\Users\\heitor55093656\\source\\repos\\Heitor787\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heitor55093656\\source\\repos\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj",
+        "projectUniqueName": "C:\\Users\\heitor55093656\\source\\repos\\Heitor787\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj",
         "projectName": "Atividade 1",
-        "projectPath": "C:\\Users\\heitor55093656\\source\\repos\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj",
+        "projectPath": "C:\\Users\\heitor55093656\\source\\repos\\Heitor787\\MeuPrimeiroApp1\\Atividade 1\\Atividade 1.csproj",
         "packagesPath": "C:\\Users\\heitor55093656\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heitor55093656\\source\\repos\\MeuPrimeiroApp1\\Atividade 1\\obj\\",
+        "outputPath": "C:\\Users\\heitor55093656\\source\\repos\\Heitor787\\MeuPrimeiroApp1\\Atividade 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
